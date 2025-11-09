@@ -15,9 +15,9 @@ c.Session-based authentication
 
 a. Users can book available time slots
 
-b.Prevent double-booking using database validation
+b.Prevent double-booking using database validation(Ensures multiple users can book the same day but not the same time)
 
-c.Real-time date & time selection
+c.Real-time date & time selection(Ensures that booking is between valid working hours[7 am to 9 pm] )
 
 d.Dynamic calendar UI using JavaScript
 
